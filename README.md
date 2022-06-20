@@ -1,4 +1,4 @@
-# Tensorflow DeepAR implemenetaion for Kaggle bike sharing demand forecasts
+# Tensorflow DeepAR implementaion for bike sharing demand forecasts
 
 This is a toy code I made to do some bike-sharing demand time series forecasting, using the manually implemented DeepAR (https://arxiv.org/abs/1704.04110) architecture with Tensorflow (Zhang et al. already have nice Torch implementation for this, which is the reason I decided to make the Tenworflow one).
 
@@ -25,4 +25,4 @@ As this model is NON-SEQUENTIAL, I had to use custom training loop with state tr
 
 **NOTES**: 
 * I have not done any single hyperparameter tunning of the models. These are just implemented for fun, using my M1 macbook, which does not even have CUDA.
-* Maybe modularizing the codes would be my next step, though, now I am preparing coding interviews, as I am just a job seeker...
+* Maybe modularizing the codes would be my next step, though, now I am preparing coding interviews, as I am looking for AI/ML/OR jobs in korea to complete my military service.
