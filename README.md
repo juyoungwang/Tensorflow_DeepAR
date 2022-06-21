@@ -1,4 +1,4 @@
-# Tensorflow DeepAR implementaion for bike sharing demand forecasts with categorical variable embedding layers
+# Tensorflow DeepAR implementation for bike sharing demand forecasts with categorical variable embedding layers
 
 This is a toy code I made to do some bike-sharing demand time series forecasting, using the manually implemented DeepAR (https://arxiv.org/abs/1704.04110) architecture with Tensorflow (Zhang et al. already have nice Torch implementation for this, which is the reason I decided to make the Tenworflow one).
 
